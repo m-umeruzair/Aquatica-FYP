@@ -1,0 +1,9 @@
+[submodule "Aquatica_Rider"]
+	path = Aquatica_Rider
+	url = https://github.com/m-umeruzair/Aquatica-Rider
+[submodule "Aquatica-Customer"]
+	path = Aquatica-Customer
+	url = https://github.com/m-umeruzair/Aquatica-Customer
+[submodule "Aquatica-Dashboard"]
+	path = Aquatica-Dashboard
+	url = https://github.com/m-umeruzair/Aquatica
